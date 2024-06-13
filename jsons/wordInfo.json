@@ -1,0 +1,14 @@
+{
+  "@meta": {
+    "ignore": true
+  },
+  "word": "item",
+  "frequence": 480,
+  "sampleSentences?": "$[]sampleSentences",
+  "phonetic?": null,
+  "britishPhonetic?": "ˈaɪtəm",
+  "americanPhonetic?": "ˈaɪtəm",
+  "definition?": null,
+  "translation?": "$[]String",
+  "tag?": null
+  }
